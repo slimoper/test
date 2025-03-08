@@ -8,7 +8,7 @@ env:
   name: "Manual"
   comment: "automotriz"
   url: "https://dspace.itsjapon.edu.ec/xmlui/bitstream/handle/123456789/3966/MANUAL%20PRACTICO%20DEL%20AUTOMOVIL.pdf?sequence=1&isAllowed=y"
-  file_name: "manual-auto-1"
+  file_name: "manualauto"
   piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
